@@ -7,7 +7,7 @@ Just for fun
 
 Screenshot
 ---
-![](https://github.com/18746521060/Calculator/Calculator.jpg)
+![](https://github.com/18746521060/Calculator/blob/master/Calculator.jpg)
 
 Requirement
 ---
